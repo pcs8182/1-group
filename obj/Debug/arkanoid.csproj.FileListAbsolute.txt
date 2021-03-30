@@ -1,0 +1,10 @@
+C:\Users\GrishechenkoMA\source\repos\arkanoid\bin\Debug\arkanoid.exe.config
+C:\Users\GrishechenkoMA\source\repos\arkanoid\bin\Debug\arkanoid.exe
+C:\Users\GrishechenkoMA\source\repos\arkanoid\bin\Debug\arkanoid.pdb
+C:\Users\GrishechenkoMA\source\repos\arkanoid\obj\Debug\arkanoid.csprojAssemblyReference.cache
+C:\Users\GrishechenkoMA\source\repos\arkanoid\obj\Debug\arkanoid.Form1.resources
+C:\Users\GrishechenkoMA\source\repos\arkanoid\obj\Debug\arkanoid.Properties.Resources.resources
+C:\Users\GrishechenkoMA\source\repos\arkanoid\obj\Debug\arkanoid.csproj.GenerateResource.cache
+C:\Users\GrishechenkoMA\source\repos\arkanoid\obj\Debug\arkanoid.csproj.CoreCompileInputs.cache
+C:\Users\GrishechenkoMA\source\repos\arkanoid\obj\Debug\arkanoid.exe
+C:\Users\GrishechenkoMA\source\repos\arkanoid\obj\Debug\arkanoid.pdb
